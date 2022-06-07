@@ -2,7 +2,7 @@
 - 👀 I’m interested in web
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on own projects
-- 📫 How to reach me - not interested
+- 📫 How to reach me - jusweinberg@gmail.com
 
 <!---
 kinteron/kinteron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
